@@ -41,7 +41,7 @@
 
 ## Notes
 
-My notes are right in the Notes folder. 🤷🏽‍😆
+My notes are right in the Notes folder. 🤷🏽‍ 😆
 
 ## Cool Articles
 
@@ -57,4 +57,4 @@ My notes are right in the Notes folder. 🤷🏽‍😆
 ## Other cool places to go and people to follow
 
 - [datascience.pizza](http://datascience.pizza) a pt-BR repository with cool resources on Data Science
-- Siraj Raval ([GitHub](https://github.com/llSourcell), [Twitter](https://twitter.com/sirajraval), [YouTube](https://t.co/B5yq0Ce2D6))
+- Siraj Raval ( [GitHub](https://github.com/llSourcell), [Twitter](https://twitter.com/sirajraval), [YouTube](https://t.co/B5yq0Ce2D6) )
