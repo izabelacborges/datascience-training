@@ -49,6 +49,7 @@ My notes are right in the Notes folder. 🤷🏽‍ 😆
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - Stefan Kojouharov
 - [How I started with learning AI in the last 2 months](https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597) - Shival Gupta
 - [Os 7 melhores sites para encontrar datasets para projetos de Data Science](https://paulovasconcellos.com.br/os-7-melhores-sites-para-encontrar-datasets-para-projetos-de-data-science-8a53c3b48329) - Paulo Vasconcelos
+- [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html?m=1) - Patrick Riley
 
 ## Useful Videos
 
@@ -58,3 +59,4 @@ My notes are right in the Notes folder. 🤷🏽‍ 😆
 
 - [datascience.pizza](http://datascience.pizza) a pt-BR repository with cool resources on Data Science
 - Siraj Raval ( [GitHub](https://github.com/llSourcell), [Twitter](https://twitter.com/sirajraval), [YouTube](https://t.co/B5yq0Ce2D6) )
+- [dl-docker](https://github.com/floydhub/dl-docker), an all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
